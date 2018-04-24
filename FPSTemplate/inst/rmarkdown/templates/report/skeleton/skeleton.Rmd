@@ -1,0 +1,46 @@
+---
+title: "FPS"
+author: "Rajanish Rajagopalan"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Project Background & Purpose
+
+
+## Project Request
+
+
+## Project Goal
+
+
+## Success Criteria
+
+
+```{r success_criteria, echo = FALSE, results='asis'}
+library(knitr)
+```
+
+## Stakeholders
+
+
+## Project Scope 
+
+
+## Project Risks
+
+
+## Proposed Business Process
+
+
+## Project Timelines
+
+
+```{r milestones, echo = FALSE, results='asis'}
+library(knitr)
+```
